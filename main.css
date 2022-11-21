@@ -1,0 +1,27 @@
+body {
+    background-color: none;
+}
+#in{
+    position: absolute;
+    width: 20px;
+    height: 400px;
+    right: 0%;
+    top: 25%;
+    border-radius: 10px;
+    background-color: rgba(128, 128, 128, 75%);
+    transition: all 0.5s;
+}
+#content{
+    position: absolute;
+    width: 2000%;
+    right: -2000%;
+    top: -18%;
+}
+
+#in:hover{
+    right: 20.87%;
+}
+
+::-webkit-scrollbar{
+    display: none;
+}

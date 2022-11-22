@@ -1,5 +1,5 @@
 # Calendar<br/>简单的日程表显示
-这是一个<b>及其</b>简单且轻量的日程表显示脚本，依靠html和css制成。<br/>
+这是一个<b style="text-color="red";">及其</b>简单且轻量的日程表显示脚本，依靠html和css制成。<br/>
 建议搭配<b>WallpapperEngine</b>或其他支持网页的壁纸软件作为壁纸食用~
 <br/><br/>
 ### [特性] 
